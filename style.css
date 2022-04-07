@@ -21,7 +21,7 @@ td:hover {
     
 }
 
-/* Tooltip text */
+
 td .tooltiptext {
     visibility: hidden;
     width: 120px;
@@ -32,7 +32,6 @@ td .tooltiptext {
     border-radius: 6px;
     
    
-    /* Position the tooltip text - see examples below! */
     position: absolute;
     z-index: 1;
   }
